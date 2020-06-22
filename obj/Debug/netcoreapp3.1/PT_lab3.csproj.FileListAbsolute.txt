@@ -1,0 +1,12 @@
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\bin\Debug\netcoreapp3.1\PT_lab3.exe
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\bin\Debug\netcoreapp3.1\PT_lab3.deps.json
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\bin\Debug\netcoreapp3.1\PT_lab3.runtimeconfig.json
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\bin\Debug\netcoreapp3.1\PT_lab3.runtimeconfig.dev.json
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\bin\Debug\netcoreapp3.1\PT_lab3.dll
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\bin\Debug\netcoreapp3.1\PT_lab3.pdb
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\obj\Debug\netcoreapp3.1\PT_lab3.csproj.CoreCompileInputs.cache
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\obj\Debug\netcoreapp3.1\PT_lab3.AssemblyInfoInputs.cache
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\obj\Debug\netcoreapp3.1\PT_lab3.AssemblyInfo.cs
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\obj\Debug\netcoreapp3.1\PT_lab3.dll
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\obj\Debug\netcoreapp3.1\PT_lab3.pdb
+C:\Users\akeisel\source\repos\PT_lab3\PT_lab3\obj\Debug\netcoreapp3.1\PT_lab3.genruntimeconfig.cache
